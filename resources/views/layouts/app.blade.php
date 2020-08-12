@@ -18,9 +18,9 @@
 </head>
 <body>
     @include('layouts.navbar')
-
     <div class="container-fluid">
-        <div class="row">
+
+        <div class="row mt-1">
             <div class="col-md-2">
                 @include('layouts.sidebar')
             </div>
