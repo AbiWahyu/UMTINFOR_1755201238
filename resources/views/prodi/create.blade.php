@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title','Prodi Page')
+@section('title','Halaman Prodi')
 @section('bread1','Prodi')
-@section('bread2','Data')
+@section('bread2','tambah')
 @section('content')
     <h3>Form Prodi</h3><hr>
 

@@ -1,9 +1,9 @@
 @extends('layouts.app')
-@section('title','Prodi Page')
+@section('title','Halaman Prodi')
 @section('bread1','Prodi')
-@section('bread2','Data')
+@section('bread2','edit')
 @section('content')
-    <h3>Form Prodi</h3><hr>
+    <h3>Form Edit Prodi</h3><hr>
     
     @include('layouts.alert')
     
